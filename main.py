@@ -76,7 +76,7 @@ class Ui_Form(object):
 
     def retranslateUi(self, Form):
         _translate = QtCore.QCoreApplication.translate
-        Form.setWindowTitle(_translate("Form", "Web  Keyword  IR  System"))
+        Form.setWindowTitle(_translate("Form", "Web Keyword IR System"))
         self.label.setText(_translate("Form", "Web  Keyword  IR  System"))
         self.label_2.setText(_translate("Form", "Information Retrieval Final Project, 51255901138, 舒翔"))
         self.label_4.setText(_translate("Form", "More Infos:"))
