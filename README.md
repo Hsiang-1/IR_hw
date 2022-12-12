@@ -6,7 +6,7 @@ Use it by `python main.py`.
 
 The folder `./ui` includes the orignal `ui` file of QtDesigner. 
 
-### Environment
+## Environment
 
 Python 3.8.13 with: 
 
@@ -36,11 +36,14 @@ urllib3            1.26.13
 wheel              0.38.4
 ```
 
-That means you should: 
+That means you should do: 
 
 > pip install requests
+>
 > pip install beautifulsoup4
+>
 > pip install baiduspider
+>
 > pip install PyQt5
 
 
