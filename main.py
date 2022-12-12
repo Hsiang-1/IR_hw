@@ -94,6 +94,7 @@ class Ui_Form(object):
         self.textEdit_4.append("------------------------")
         
         # get baike knowledge
+        self.textEdit_2.clear()
         font = QtGui.QFont()
         font.setPointSize(18)
         self.textEdit_2.setFont(font)
